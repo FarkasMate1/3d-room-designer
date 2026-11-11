@@ -18,7 +18,6 @@ A web-based 3D interior design application built with React, Three.js, and Node.
 ![Kitchen](docs/screenshots/kitchen.png)
 ![Bathroom](docs/screenshots/bathroom.png)
 
-> Add your screenshots to `docs/screenshots/` (create the folder if needed).
 
 ## Tech Stack
 
